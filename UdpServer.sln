@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37012.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_homework", "01_homework\01_homework.csproj", "{031582C1-7120-4C46-9D45-4BB7C813CA00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdpClientApp", "..\WpfApp1\UdpClientApp.csproj", "{B6648EC1-2392-4B03-8F5C-5442199E40A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{031582C1-7120-4C46-9D45-4BB7C813CA00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{031582C1-7120-4C46-9D45-4BB7C813CA00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{031582C1-7120-4C46-9D45-4BB7C813CA00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{031582C1-7120-4C46-9D45-4BB7C813CA00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6648EC1-2392-4B03-8F5C-5442199E40A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6648EC1-2392-4B03-8F5C-5442199E40A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6648EC1-2392-4B03-8F5C-5442199E40A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6648EC1-2392-4B03-8F5C-5442199E40A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6673480D-9AD6-4CF6-AA51-B4DC5E1BD552}
+	EndGlobalSection
+EndGlobal
